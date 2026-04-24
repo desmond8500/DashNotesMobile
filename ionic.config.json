@@ -1,0 +1,7 @@
+{
+  "name": "DashNotes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
